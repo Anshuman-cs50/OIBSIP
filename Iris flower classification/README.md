@@ -12,9 +12,9 @@ The project is about creating a classifisation model which can distinguish betwe
 Iris Flower Classification/
 │
 ├── data/                                    # Iris Dataset file
-    └──Iris.csv                              
+|    └──Iris.csv                              
 ├── model/                                   # Model extraction (.pkl)
-    └──iris_model.pkl                        # Final model
+|    └──iris_model.pkl                        # Final model
 ├── iris flower classification.ipynb         # Git ignore rules
 ├── README.md                                # Project documentation
 └── requirements.txt                         # Libraries used throughout the project
