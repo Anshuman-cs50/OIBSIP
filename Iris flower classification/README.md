@@ -14,7 +14,7 @@ Iris Flower Classification/
 ├── data/                                    # Iris Dataset file
 |    └──Iris.csv                              
 ├── model/                                   # Model extraction (.pkl)
-|    └──iris_model.pkl                        # Final model
+|    └──iris_model.pkl                       # Final model
 ├── iris flower classification.ipynb         # Git ignore rules
 ├── README.md                                # Project documentation
 └── requirements.txt                         # Libraries used throughout the project
@@ -53,26 +53,26 @@ Write a brief about the results:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/project-name.git
-cd project-name
+git clone https://github.com/Anshuman-cs50/OIBSIP/tree/main/Iris%20flower%20classification
+cd Iris flower classification
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Run Jupyter Notebook
-jupyter notebook notebooks/your_notebook.ipynb
+jupyter notebook iris flower classification.ipynb
 ```
 
 ## 📁 Dataset Information
 
-* Source:
-* Number of features:
-* Target column:
-* Data size:
+* Source:  https://www.kaggle.com/datasets/saurabh00007/iriscsv
+* Number of features: 6
+* Target column: 'Species'
+* Independent columns: 'SepalLengthCm', 'SepalWidthCm', 'PetalLengthCm', 'PetalWidthCm'
 
 ## 🧠 Key Learnings / Takeaways
 
-Write a few bullet points on what you learned through this project.
+The Iris flower problem introduces supervised learning, and classification using real data. It includes model evaluation, preprocessing, and interpretability. Despite its simplicity, it helps building foundational ML skills like visualization, scaling, and encoding—perfect for understanding how models make decisions and for practicing reproducible, well-structured code workflows.
 
 ## 🙋‍♂️ Author
 
