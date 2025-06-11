@@ -4,7 +4,7 @@ IRIS FLOWER CLASSIFICATION
 
 ## 📝 Project Overview
 
-The project is about creating a classifisation model which can distinguish between the different species of iris. This problem is classical machine learning project and forms a quick hands on experience of training a machine learning classification model on labeled dataset.
+The project is about creating a classifisation model which can distinguish between the different species of Iris flowers. This is a classical yet fundamental machine learning project and forms a quick hands on experience of training a machine learning classification model on labeled dataset.
 
 ## 📁 Directory Structure
 
