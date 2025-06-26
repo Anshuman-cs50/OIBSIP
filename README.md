@@ -17,17 +17,17 @@ The OIBSIP internship provided hands-on experience with real-world data science 
 - Achieved 100% accuracy with Linear SVM.
 - Technologies: `scikit-learn`, `pandas`, `seaborn`, `matplotlib`
 
-### 2. [Unemployment Analysis in India (2020–2021)](./Unemployment%20analysis)
+### 2. [Unemployment Analysis in India (2020–2021)](./Unemployment%Analysis%with%Python)
 - Analyzed urban vs. rural unemployment trends during COVID-19.
 - Generated a PDF report with key insights and visualizations.
 - Technologies: `pandas`, `matplotlib`, `fpdf`
 
-### 3. [Car Price Prediction](./Car%20Price%20Prediction)
+### 3. [Car Price Prediction](./Car%20Price%20Prediction%with%Machine%Learning)
 - Predicted selling price of used cars using regression models.
 - Gradient Boosting Regressor achieved R² of 0.96.
 - Technologies: `RandomForest`, `GradientBoosting`, `SVR`, `scikit-learn`
 
-### 4. [Sales Prediction Using Advertising Data](./Sales%20Prediction)
+### 4. [Sales Prediction Using Advertising Data](./Sales%20Prediction%using%Python)
 - Forecasted product sales based on ad spend across TV, Radio, Newspaper.
 - Random Forest Regressor yielded R² of 0.98.
 - Technologies: `regression`, `EDA`, `hyperparameter tuning`, `visualizations`
